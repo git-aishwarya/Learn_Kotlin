@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="24dp"
+>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Masters in Electrical Engineering"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#222222"
+    />
+    <TextView
+            android:id="@+id/mit_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Massachusetts Institute of Technology"
+            android:textSize="12sp"
+            android:textColor="#555555"
+    />
+    <View
+
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+           android:layout_marginTop="15dp"
+            android:background="#D3D3D3"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="Masters in Physics"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#222222"
+    />
+    <TextView
+            android:id="@+id/mit_text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Massachusetts Institute of Technology"
+            android:textSize="12sp"
+            android:textColor="#555555"
+    />
+    <View
+
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="15dp"
+            android:background="#D3D3D3"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="Bachelors in Electrical Engineering"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#222222"
+    />
+    <TextView
+            android:id="@+id/mit_text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Massachusetts Institute of Technology"
+            android:textSize="12sp"
+            android:textColor="#555555"
+    />
+    <View
+
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="15dp"
+            android:background="#D3D3D3"/>
+</LinearLayout>
